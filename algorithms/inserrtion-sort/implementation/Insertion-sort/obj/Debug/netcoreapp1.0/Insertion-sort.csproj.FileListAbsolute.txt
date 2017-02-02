@@ -1,0 +1,9 @@
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\bin\Debug\netcoreapp1.0\Insertion-sort.deps.json
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\bin\Debug\netcoreapp1.0\Insertion-sort.runtimeconfig.json
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\bin\Debug\netcoreapp1.0\Insertion-sort.runtimeconfig.dev.json
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\bin\Debug\netcoreapp1.0\Insertion-sort.dll
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\bin\Debug\netcoreapp1.0\Insertion-sort.pdb
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\obj\Debug\netcoreapp1.0\Insertion-sort.csprojResolveAssemblyReference.cache
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\obj\Debug\netcoreapp1.0\Insertion-sort.AssemblyInfo.cs
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\obj\Debug\netcoreapp1.0\Insertion-sort.dll
+C:\dev\katas\algorithms\inserrtion-sort\implementation\Insertion-sort\obj\Debug\netcoreapp1.0\Insertion-sort.pdb
